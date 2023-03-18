@@ -6,5 +6,4 @@ My name is Gabriel, I am 28 years old, from Paris and I am a student in software
 
 At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.
 
-My programming languages are : ![JavaScript-01](https://user-images.githubusercontent.com/114992640/226121802-907bb5a6-ccdc-489c-8e2c-28a6abb062dd.png)
 
