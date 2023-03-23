@@ -85,10 +85,16 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
         <img src="./logos/vs_code.png" alt="Visual Studio Code Logo">
       </td>
       <td>
+        <img src="./logos/pycharm.png" alt="PyCharm Logo">
+      </td>
+      <td>
         <img src="./logos/github.png" alt="GitHub Logo">
       </td>
       <td>
         <img src="./logos/Postman.png" alt="PostMan Logo">
+      </td>
+      <td>
+        <img src="./logos/mysql_workbench.png" alt="MySql Workbench Logo">
       </td>
     </tr>
   </tbody>
