@@ -6,7 +6,7 @@
 
 ![mortarboard (1)](https://user-images.githubusercontent.com/114992640/227162567-86b147c1-882e-4a60-ba56-82c1b44f74b2.png)
   
-<p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at <a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="https://user-images.githubusercontent.com/114992640/226121105-6b60144a-2be4-4511-8cb0-dee6c2bd0ffe.png"></p>
+<p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at <a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo"></p>
 <br>
 
 <p>At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.</p>
@@ -139,6 +139,8 @@ The idea is to create a web application through which a user would be able to up
 <p> At Ada Tech School, we have two weeks imposed school group projects every month through which we have to learn new technologies and notions by building the projects's goal application.</p>
 <p> By working in an imposed group, we also work on our soft-skills, learning to communicate and to work in a team on the development of a program while using <strong>agile software development methods</strong>.</p>
 
+<br>
+
 <a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole">Vortex Blackhole</a>
 <ul>
   <li>
@@ -146,6 +148,8 @@ The idea is to create a web application through which a user would be able to up
   </li>
   <li> Essentially produced in pair-programming, this two weeks project allowed us to understand the role of functions and variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
 </ul>
+
+<br>
 
 <a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension">Diario</a>
 <ul>
