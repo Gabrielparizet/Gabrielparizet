@@ -26,7 +26,6 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
 <h2>Programming Languages and Tools</h2>
 
 <h3>Programming Languages</h3>  
-
 <table>
   <tbody>
     <tr>
@@ -75,8 +74,23 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
   </tbody>
 </table>
 
-
-
-
-
+<h3>Tools</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./logos/Notion.png">
+      </td>
+      <td>
+        <img src="./logos/vs_code.png">
+      </td>
+      <td>
+        <img src="./logos/github.png">
+      </td>
+      <td>
+        <img src="./logos/Postman.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
