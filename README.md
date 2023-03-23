@@ -6,7 +6,8 @@
 
 ![mortarboard (1)](https://user-images.githubusercontent.com/114992640/227162567-86b147c1-882e-4a60-ba56-82c1b44f74b2.png)
   
-<p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at <a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo"></p>
+<p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at:</p>
+<a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo">
 <br>
 
 <p>At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.</p>
