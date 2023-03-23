@@ -24,7 +24,9 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
 <br>
 
 <h2>Programming Languages and Tools</h2>
-  
+
+<h3>Programming Languages</h3>  
+
 <table>
   <tbody>
     <tr>
@@ -41,13 +43,24 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
         <img src="./logos/PHP.png">
       </td>
       <td>
-        <img src="./logos/MYSQL.png">
+        <img src="./logos/MySQL.png">
       </td>
       <td>
         <img src="./logos/html.png">
       </td>
       <td>
         <img src="./logos/css.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Frameworks</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./logos/React.png">
       </td>
     </tr>
   </tbody>
