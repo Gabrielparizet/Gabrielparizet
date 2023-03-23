@@ -102,6 +102,14 @@
 
 <br>
 
+<h2>GitHub Stats</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielparizet&theme=apprentice) 
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielparizet&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielparizet&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielparizet&theme=apprentice&utcOffset=8)
+
+
+
 <h2>Projects</h2>
 
 ![project](https://user-images.githubusercontent.com/114992640/227184555-088a2857-2f3f-40d6-91fb-8766d79ef4fb.png)
@@ -131,16 +139,10 @@ The idea is to create a web application through which a user would be able to up
 <a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole">Vortex Blackhole</a>
 <ul>
   <li>
-    Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong> in <strong>Lua</strong>.
+    Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
   </li>
+  <li> Essentially produced in pair-programming, this two weeks project allowed to understand the role of functions, variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
 </ul>
 
-<HR>
-<br>
-<h2>GitHub Stats</h2>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielparizet&theme=apprentice) 
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielparizet&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielparizet&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielparizet&theme=apprentice&utcOffset=8)
 
 
