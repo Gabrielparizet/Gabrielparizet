@@ -29,30 +29,25 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
   <tbody>
     <tr>
       <td>
-        <img src="./logos/javascript.png">
+        <img src="./logos/JavaScript.png">
       </td>
       <td>
         <img src="./logos/Node.png">
       </td>
       <td>
-        <img src="./logos/JavaScript.png">
+        <img src="./logos/Python.png">
       </td>
       <td>
-        <img src="./logos/JavaScript.png">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="./logos/JavaScript.png">
+        <img src="./logos/PHP.png">
       </td>
       <td>
-        <img src="./logos/JavaScript.png">
+        <img src="./logos/MYSQL.png">
       </td>
       <td>
-        <img src="./logos/JavaScript.png">
+        <img src="./logos/html.png">
       </td>
       <td>
-        <img src="./logos/JavaScript.png">
+        <img src="./logos/css.png">
       </td>
     </tr>
   </tbody>
