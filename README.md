@@ -1,20 +1,16 @@
 <h1>Welcome to my GitHub profile! 👋 </h1>
 
-<h2>Contact</h2>
-
-<img src="./logos/contact.png" alt="Contact Logo">
+<h2>Contact ☎️</h2>
 
 <ul>
   <li><a href="parizetgabriel@gmail.com" alt="Personal email address"><img src="./logos/gmail.png" alt="Gmail Logo"> parizetgabriel@gmail.com</a></li>
   <li><a href="https://www.linkedin.com/in/gabriel-parizet/" alt="Linkedin Profile Link"><img src="./logos/linkedin.png" alt="Linkedin Logo"> Linkedin</a></li>
-  <li><a href="https://github.com/Gabrielparizet" alt="GitHub Profile Link"></a><img src="./logos/github_miniature.png" alt="GitHub Logo"> GitHub</li>
+  <li><a href="https://github.com/Gabrielparizet" alt="GitHub Profile Link"><img src="./logos/github_miniature.png" alt="GitHub Logo"> GitHub</a></li>
 </ul>
 
 <br>
 
-<h2>Education</h2>
-
-![mortarboard (1)](https://user-images.githubusercontent.com/114992640/227162567-86b147c1-882e-4a60-ba56-82c1b44f74b2.png)
+<h2>Education 📚</h2>
   
 <p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at:</p>
 <a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo">
@@ -26,7 +22,7 @@
 
 <br>
   
-<h2>GOAL</h2>
+<h2>Goal 🎯</h2>
 
 ![target](https://user-images.githubusercontent.com/114992640/227160287-02df8019-917f-44b6-8301-130f8b17d5af.png)
 
@@ -36,7 +32,7 @@
 
 <br>
 
-<h2>Programming Languages and Tools</h2>
+<h2>Programming Languages and Tools 💻</h2>
 
 <h3>Programming Languages</h3>  
 <table>
@@ -118,7 +114,7 @@
 
 <br>
 
-<h2>GitHub Stats</h2>
+<h2>GitHub Stats 📈</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielparizet&theme=tokyonight)
   
@@ -126,9 +122,8 @@
 
 
 
-<h2>Projects</h2>
+<h2>Projects ⚙️</h2>
 
-![project](https://user-images.githubusercontent.com/114992640/227184555-088a2857-2f3f-40d6-91fb-8766d79ef4fb.png)
 
 <h3>Personal Projects</h3>
 
