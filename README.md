@@ -1,20 +1,50 @@
-Welcome to my GitHub profile! 👋🧐
+<h1>Welcome to my GitHub profile! 👋 </h1>
 
-My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at <img width="222" alt="img_logo_ada_white" src="https://user-images.githubusercontent.com/114992640/226121105-6b60144a-2be4-4511-8cb0-dee6c2bd0ffe.png">
+<br>
 
-🧑‍💻 https://adatechschool.fr/
+<h2>Education</h2>
+
+![mortarboard (1)](https://user-images.githubusercontent.com/114992640/227162567-86b147c1-882e-4a60-ba56-82c1b44f74b2.png)
+  
+My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at <a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="https://user-images.githubusercontent.com/114992640/226121105-6b60144a-2be4-4511-8cb0-dee6c2bd0ffe.png">
+<br>
 
 At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.
 
 <br>
-<br>
-My programming languages are:
-<br>
+  
+<h2>GOAL</h2>
+
+![target](https://user-images.githubusercontent.com/114992640/227160287-02df8019-917f-44b6-8301-130f8b17d5af.png)
+
+Developping a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 months apprenticeship as a <strong>back-end software engineer</strong>, starting between June 12th and July 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my Goal to become senior back-end engineer in the years to come. 
+
+This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.
+
 <br>
 
-
-![JavaScript-01](https://user-images.githubusercontent.com/114992640/226122315-6fd5ea76-0b63-4aaf-9719-5a1650f33ad2.png)     ![Node-JS-01](https://user-images.githubusercontent.com/114992640/226122579-6c70bc6c-d021-4d11-9187-a69a43431ba2.png)     ![Python-01](https://user-images.githubusercontent.com/114992640/226122588-3173b65f-5ee1-4c7f-83d8-0ec935a6e8fe.png)     ![React-01](https://user-images.githubusercontent.com/114992640/226122628-b128e803-9fca-44b0-bbef-a10ece6b7f5a.png)     ![PHP-01](https://user-images.githubusercontent.com/114992640/226122648-f081d8c0-d9f8-4e9a-a5cf-d4e3c73574c7.png)     ![MySQL-01](https://user-images.githubusercontent.com/114992640/226122657-9b1e79d7-c880-43ac-9009-89924f5bc034.png)     ![HTML-5-logo-vector-01](https://user-images.githubusercontent.com/114992640/226122670-4dfd35bd-8119-4363-9d3b-4b3442f4941d.png)     ![CSS-3-01](https://user-images.githubusercontent.com/114992640/226122678-81a27317-b64b-41c4-a362-0c16298ca0d2.png)
-
+<h2>Programming Languages and Tools</h2>
+  
+<table>
+  <tbody>
+    <tr>
+      <td>
+        
+          ![Python-04](https://user-images.githubusercontent.com/114992640/227165509-79c31218-6230-4a0f-a8e5-e8520a73eb40.png)
+        
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
