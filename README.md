@@ -29,19 +29,31 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
   <tbody>
     <tr>
       <td>
-        
-          ![Python-04](https://user-images.githubusercontent.com/114992640/227165509-79c31218-6230-4a0f-a8e5-e8520a73eb40.png)
-        
+        <img src="./logos/JavaScript.png">
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
+      <td>
+        <img src="./logos/JavaScript.png">
+      </td>
     </tr>
   </tbody>
 </table>
