@@ -18,6 +18,7 @@
 <a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo"></a>
 
 <br>
+<br>
 
 <p>At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.</p>
 
@@ -28,7 +29,7 @@
 
 ![target](https://user-images.githubusercontent.com/114992640/227160287-02df8019-917f-44b6-8301-130f8b17d5af.png)
 
-<p>Developping a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 months apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my Goal to become senior back-end engineer in the years to come. </p>
+<p>Developing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 months apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my Goal to become senior back-end engineer in the years to come. </p>
 
 <p>This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.</p>
 
@@ -153,7 +154,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole">Vortex Blackhole</a>
+<a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a>
 <ul>
   <li>
     Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
@@ -163,7 +164,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension">Diario</a>
+<a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension project repository">Diario</a>
 <ul>
   <li>
     Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
@@ -193,8 +194,14 @@ The idea is to create a web application through which a user would be able to up
   <li>
     The CSS grid was designed with the help of <strong>Bootstrap.css</strong> and is hence fully responsive.
   </li>
+  <li>
+    We fully cooperated dividing our tasks using trello, working from a MVP to a fully functional V2. Versioning was done using Git and Github.
+  </li>
 </ul>
 
+<br>
+
+<a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a>
       
 
 
