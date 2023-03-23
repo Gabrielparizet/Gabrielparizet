@@ -1,5 +1,6 @@
 <h1>Welcome to my GitHub profile! 👋 </h1>
 
+
 <h2>Contact ☎️</h2>
 
 <ul>
@@ -10,18 +11,19 @@
 
 <br>
 
+
 <h2>Education 📚</h2>
   
 <p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at:</p>
-<a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo">
+<a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo"></a>
 
-<br><br>
-
+<br>
 
 <p>At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.</p>
 
 <br>
-  
+
+
 <h2>Goal 🎯</h2>
 
 ![target](https://user-images.githubusercontent.com/114992640/227160287-02df8019-917f-44b6-8301-130f8b17d5af.png)
@@ -31,6 +33,7 @@
 <p>This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.</p>
 
 <br>
+
 
 <h2>Programming Languages and Tools 💻</h2>
 
@@ -114,16 +117,17 @@
 
 <br>
 
+
 <h2>GitHub Stats 📈</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielparizet&theme=tokyonight)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielparizet&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielparizet&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielparizet&theme=tokyonight&utcOffset=-1)
 
+<br>
 
 
 <h2>Projects ⚙️</h2>
-
 
 <h3>Personal Projects</h3>
 
