@@ -134,4 +134,13 @@ The idea is to create a web application through which a user would be able to up
     Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong> in <strong>Lua</strong>.
   </li>
 </ul>
-   
+
+<HR>
+<br>
+<h2>GitHub Stats</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielparizet&theme=apprentice) 
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielparizet&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielparizet&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielparizet&theme=apprentice&utcOffset=8)
+
+
