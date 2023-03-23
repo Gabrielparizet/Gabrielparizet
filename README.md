@@ -162,13 +162,22 @@ The idea is to create a web application through which a user would be able to up
         Writing a ToDo List using Chrome's local-storage API.
       </li>
       <li>
-        A carousel developed with <strong>Bootstrap.css</strong> displaying today's news fetched from the newsapi.
+        A carousel developed with <strong>Bootstrap.css</strong> displaying today's news fetched from the newsapi's API.
       </li>
       <li>
-        The display of you chrome bookmarks in a tree-like layout using chrome.bookmarks api.
+        The display of you chrome bookmarks in a tree-like layout using chrome.bookmarks API.
       </li>
     </ul>
-
+  </li>
+  <li>
+    Diario also takes into account the user's time when he connects to the extension and adapts its theme accordingly.
+  </li>
+  <li>
+    Diario's program is fully written in <strong>JavaScript</strong> and <strong>HTML/CSS</strong>, it allowed us to learn how to use the Document Object Model (DOM) programming interface.
+  <li>
+    The CSS grid was designed with the help of <strong>Bootstrap.css</strong> and is hence fully responsive.
+  </li>
+</ul>
 
       
 
