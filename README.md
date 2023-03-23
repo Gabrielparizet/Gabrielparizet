@@ -2,6 +2,14 @@
 
 <h2>Contact</h2>
 
+<img src="./logos/contact.png" alt="Contact Logo">
+
+<ul>
+  <li><a href="parizetgabriel@gmail.com" alt="Personal email address">parizetgabriel@gmail.com</a></li>
+  <li>Tel: Write me an e-mail so
+  <li><a href="https://www.linkedin.com/analytics/profile-views/" alt="Linkedin Profile Link">Linkedin</a></li>
+  <li><a href="https://github.com/Gabrielparizet" alt="GitHub Profile Link"></a>GitHub</li>
+</ul>
 
 <br>
 
