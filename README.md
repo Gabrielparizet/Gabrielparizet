@@ -32,7 +32,7 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
         <img src="./logos/javascript.png">
       </td>
       <td>
-        <img src="./logos/node.png">
+        <img src="/Users/gabrielparizet/Desktop/CV/Gabrielparizet/logos/node.png">
       </td>
       <td>
         <img src="./logos/python.png">
