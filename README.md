@@ -120,3 +120,18 @@ The idea is to create a web application through which a user would be able to up
   <li>The front-end (ongoing) is created with the use of React.js and Tailwind.css. </li>
   <li>In the V2, I am planning to add a MySQL relational database to handle user's account data and the saving of files' slugs.</li>
 </ul>
+
+<br>
+
+<h3>School Group Projects</h3>
+
+<p> At Ada Tech School, we have two weeks imposed school group projects every month through which we have to learn new technologies and notions by building the projects's goal application.</p>
+<p> By working in an imposed group, we also work on our soft-skills, learning to communicate and to work in a team on the development of a program while using <strong>agile software development methods</strong>.</p>
+
+<a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole">Vortex Blackwhole</a>
+<ul>
+  <li>
+    Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong> in <strong>Lua</strong>.
+  </li>
+</ul>
+   
