@@ -62,6 +62,15 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
       <td>
         <img src="./logos/React.png">
       </td>
+      <td>
+        <img src="./logos/express.png">
+      </td>
+      <td>
+        <img src="./logos/flask.png">
+      </td>
+      <td>
+        <img src="./logos/Tailwind.png">
+      </td>
     </tr>
   </tbody>
 </table>
