@@ -62,7 +62,7 @@
         <img src="./logos/React.png" alt="React.js Logo">
       </td>
       <td>
-        <img src="./logos/express.png" alt="Express.js Logo">
+        <img src="./logos/express.jpeg" alt="Express.js Logo">
       </td>
       <td>
         <img src="./logos/flask.png" alt="Flask Logo">
@@ -144,8 +144,34 @@ The idea is to create a web application through which a user would be able to up
   <li>
     Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
   </li>
-  <li> Essentially produced in pair-programming, this two weeks project allowed to understand the role of functions, variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
+  <li> Essentially produced in pair-programming, this two weeks project allowed us to understand the role of functions and variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
 </ul>
+
+<a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension">Diario</a>
+<ul>
+  <li>
+    Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
+  </li>
+  <li>
+    Diario changes the content of your new Google Chrome tabs and provides such features as:
+    <ul>
+      <li>
+        The display of the current weather based on the user's geolocation and time using Chrome's geolocation API and the open-meteo API for fetching weather's data. 
+      </li>
+      <li>
+        Writing a ToDo List using Chrome's local-storage API.
+      </li>
+      <li>
+        A carousel developed with <strong>Bootstrap.css</strong> displaying today's news fetched from the newsapi.
+      </li>
+      <li>
+        The display of you chrome bookmarks in a tree-like layout using chrome.bookmarks api.
+      </li>
+    </ul>
+
+
+      
+
 
 
 
