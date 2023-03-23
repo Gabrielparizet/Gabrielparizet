@@ -62,7 +62,7 @@
         <img src="./logos/React.png" alt="React.js Logo">
       </td>
       <td>
-        <img src="./logos/express.jpeg" alt="Express.js Logo">
+        <img src="./logos/express.png" alt="Express.js Logo">
       </td>
       <td>
         <img src="./logos/flask.png" alt="Flask Logo">
