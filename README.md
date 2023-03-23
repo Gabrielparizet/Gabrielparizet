@@ -1,4 +1,6 @@
-<h1>Welcome to my GitHub profile! 👋 (This page is undergoing work)</h1>
+<h1>Welcome to my GitHub profile! 👋 
+<br>
+(This page is undergoing work)</h1>
 
 
 <h2>Contact ☎️</h2>
