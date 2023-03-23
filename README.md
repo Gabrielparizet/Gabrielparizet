@@ -5,9 +5,9 @@
 <img src="./logos/contact.png" alt="Contact Logo">
 
 <ul>
-  <li><a href="parizetgabriel@gmail.com" alt="Personal email address">parizetgabriel@gmail.com <img src="./logos/gmail.png" alt="Gmail Logo"></a></li>
-  <li><a href="https://www.linkedin.com/analytics/profile-views/" alt="Linkedin Profile Link">Linkedin</a></li>
-  <li><a href="https://github.com/Gabrielparizet" alt="GitHub Profile Link"></a>GitHub</li>
+  <li><a href="parizetgabriel@gmail.com" alt="Personal email address"><img src="./logos/gmail.png" alt="Gmail Logo"> parizetgabriel@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/gabriel-parizet/" alt="Linkedin Profile Link"><img src="./logos/linkedin.png" alt="Linkedin Logo"> Linkedin</a></li>
+  <li><a href="https://github.com/Gabrielparizet" alt="GitHub Profile Link"></a><img src="./logos/github_miniature.png" alt="GitHub Logo"> GitHub</li>
 </ul>
 
 <br>
