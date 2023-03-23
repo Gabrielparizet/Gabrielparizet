@@ -1,4 +1,4 @@
-<h1>Welcome to my GitHub profile! 👋 </h1>
+<h1>Welcome to my GitHub profile! 👋 (This page is undergoing work)</h1>
 
 
 <h2>Contact ☎️</h2>
@@ -27,11 +27,9 @@
 
 <h2>Goal 🎯</h2>
 
-![target](https://user-images.githubusercontent.com/114992640/227160287-02df8019-917f-44b6-8301-130f8b17d5af.png)
+<p>Developing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 months apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my goal of becoming a senior back-end engineer in the years to come. </p>
 
-<p>Developing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 months apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my Goal to become senior back-end engineer in the years to come. </p>
-
-<p>This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.</p>
+<p><strong>This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.</strong></p>
 
 <br>
 
@@ -195,15 +193,53 @@ The idea is to create a web application through which a user would be able to up
     The CSS grid was designed with the help of <strong>Bootstrap.css</strong> and is hence fully responsive.
   </li>
   <li>
-    We fully cooperated dividing our tasks using trello, working from a MVP to a fully functional V2. Versioning was done using Git and Github.
+    We fully cooperated dividing our tasks using <strong>Trello</strong>, working from a MVP to a fully functional V2. Versioning was done using <strong>Git and Github</strong>.
   </li>
 </ul>
 
 <br>
 
 <a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a>
+<ul>
+  <li>
+    Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time.
+  </li> 
+  <li>
+    Travel Book is a social network centered of travel themes. The core idea of the project is to allow users to share their travel's experience through their posts.
+  </li>
+  <li>
+    Starting in pair-programming, we quickly moved to a task division using <strong>Trello</strong> and <strong>Git and GitHub</strong> for versioning.
+  </li>
+  <li>
+    In this project, I endorsed the role of a lead-developer for the first time, driving our workflow, ensuring everyone was motivated by the realization of our social network and making sure features were developed on time. It was a big challenge through which I improved many team-work communication and perseverance skills by helping my other classmates to achieve their goals.
+  </li>
+  <li>
+    Fully written in PHP which we were using for the first time, we implemented many social network related features, such as:
+    <ul>
+      <li>
+        Creating a user account, stocking the user's credentials in a database and handling user's session login and logout.
+      </li>
+      <li>
+        Creating posts from a user account stocked in a relational database through a Post route taking the user's id into account.
+      </li>
+      <li>
+        Associating posts to a Hashtag thanks to which we were able to get posts related to that particular Hashtag. 
+      </li>
+      <li>
+        Adding the possibility to post a picture in a user's post with that picture being stocked in our server and its slug in our database, relating it to the post Id.
+      <li>
+        Handling likes for posts from a user account and stocking them in the database using the users' and posts' Ids. 
+      </li>
+      <li>
+        Being able to follow other users from their profiles and displaying the number of following and followed users in the connected user's personal profile.
+      </li>
+      <li>
+        Posting a profile picture with the same technique used for posts' pictures, stocking the picture's slug in our database relating it to the user's Id.
+      </li>
+    </ul>
+  </li>
+</ul>
+  
+   
       
-
-
-
 
