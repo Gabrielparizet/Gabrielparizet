@@ -30,25 +30,25 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
   <tbody>
     <tr>
       <td>
-        <img src="./logos/JavaScript.png">
+        <img src="./logos/JavaScript.png" alt="JavaScript Logo">
       </td>
       <td>
-        <img src="./logos/Node.png">
+        <img src="./logos/Node.png" alt="Node.js Logo">
       </td>
       <td>
-        <img src="./logos/Python.png">
+        <img src="./logos/Python.png" alt="Python Logo">
       </td>
       <td>
-        <img src="./logos/PHP.png">
+        <img src="./logos/PHP.png" alt="Php Logo">
       </td>
       <td>
-        <img src="./logos/MySQL.png">
+        <img src="./logos/MySQL.png" alt="MySQL Logo">
       </td>
       <td>
-        <img src="./logos/html.png">
+        <img src="./logos/html.png" alt="HTML Logo">
       </td>
       <td>
-        <img src="./logos/css.png">
+        <img src="./logos/css.png" alt="CSS Logo">
       </td>
     </tr>
   </tbody>
@@ -59,16 +59,16 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
   <tbody>
     <tr>
       <td>
-        <img src="./logos/React.png">
+        <img src="./logos/React.png" alt="React.js Logo">
       </td>
       <td>
-        <img src="./logos/express.png">
+        <img src="./logos/express.png" alt="Express.js Logo">
       </td>
       <td>
-        <img src="./logos/flask.png">
+        <img src="./logos/flask.png" alt="Flask Logo">
       </td>
       <td>
-        <img src="./logos/Tailwind.png">
+        <img src="./logos/Tailwind.png" alt="Tailwind Logo">
       </td>
     </tr>
   </tbody>
@@ -79,16 +79,16 @@ This apprenticeship would work on the basis of Monday to Thursday at work and Fr
   <tbody>
     <tr>
       <td>
-        <img src="./logos/Notion.png">
+        <img src="./logos/Notion.png" alt="Notion Logo">
       </td>
       <td>
-        <img src="./logos/vs_code.png">
+        <img src="./logos/vs_code.png" alt="Visual Studio Code Logo">
       </td>
       <td>
-        <img src="./logos/github.png">
+        <img src="./logos/github.png" alt="GitHub Logo">
       </td>
       <td>
-        <img src="./logos/Postman.png">
+        <img src="./logos/Postman.png" alt="PostMan Logo">
       </td>
     </tr>
   </tbody>
