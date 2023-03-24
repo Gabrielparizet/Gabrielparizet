@@ -29,7 +29,7 @@
 
 <h2>Goal 🎯</h2>
 
-<p>Developing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 months apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my goal of becoming a senior back-end engineer in the years to come. </p>
+<p>Developing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12 month apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my goal of becoming a senior back-end engineer in the years to come. </p>
 
 <p><strong>This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.</strong></p>
 
@@ -135,8 +135,8 @@
 <a href="https://github.com/Gabrielparizet/music-recognition-project" alt="Link to sound data repository">Sound Data</a>
 
 <p>Sound data is personal project I started recently and on which I am currently working on my free time.
-The idea is to create a web application through which a user would be able to upload an audio file in order to get musical informations about it such as: the tempo (bpm), the length in minutes of the file and a graphical representation of the sound.</p>
-<p>Currently working on an Minimum Viable Product, my goal for the V2 of <strong>Sound Data</strong> is to add the possibility to create an account in order to save the infos of a user's previously analyzed files, so they won't have to upload their files again.</p>
+The idea is to create a web application through which a user would be able to upload an audio file in order to get musical information about it such as: the tempo (bpm), the length in minutes of the file and a graphical representation of the sound.</p>
+<p>Currently working on a Minimum Viable Product, my goal for the V2 of <strong>Sound Data</strong> is to add the possibility to create an account in order to save the infos of a user's previously analyzed files, so they won't have to upload their files again.</p>
 <ul>
   <li>The back-end (ongoing) is done in Python with the use of Flask for the building of the API's routes.</li>
   <li>
