@@ -273,7 +273,7 @@ The idea is to create a web application through which a user would be able to up
         The storage of furnitures' images on our express server with their corresponding slugs stored in our database made accessible through a <strong>HTTP GET route</strong>.
       </li>
       <li>
-        The possibility for a user to create a personal account through a registration form that will check the user's email validity, hash the user's password with the help of <strong>SHA256</strong>and post her/his credentials in the database through a <strong>HTTP POST route</strong>.
+        The possibility for a user to create a personal account through a registration form that will check the user's email validity, hash the user's password with the help of <strong>SHA256</strong> cryptographic hash and post her/his credentials in the database through a <strong>HTTP POST route</strong>.
       </li>
     </ul>
 </ul>
