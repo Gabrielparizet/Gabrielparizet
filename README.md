@@ -155,9 +155,9 @@ The idea is to create a web application through which a user would be able to up
 <h4><a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a><span> / October 2022</span></h4>
 <ul>
   <li>
-    <span><strong><u>About:</u></strong></span> Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
+    <strong><ins>About:</ins></strong> Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
   </li>
-  <li><span><strong><u>Description:</u></strong></span> Essentially produced in pair-programming, this two weeks project allowed us to understand the role of functions and variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
+  <li><strong><ins>Description:</ins></strong> Essentially produced in pair-programming, this two weeks project allowed us to understand the role of functions and variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
 </ul>
 
 <br>
@@ -165,10 +165,10 @@ The idea is to create a web application through which a user would be able to up
 <h4><a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension project repository">Diario</a><span> / January 2023</span></h4>
 <ul>
   <li>
-    <span><strong><u>About:</u></strong></span> Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
+    <strong><ins>About:</ins></strong> Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
   </li>
   <li>
-    <span><strong><u>Features:</u></strong></span> Diario changes the content of your new Google Chrome tabs and provides such features as:
+    <strong><ins>Features:</ins></strong> Diario changes the content of your new Google Chrome tabs and provides such features as:
     <ul>
       <li>
         The display of the current weather based on the user's geolocation and time using Chrome's geolocation API and the open-meteo API for fetching weather's data. 
@@ -188,12 +188,12 @@ The idea is to create a web application through which a user would be able to up
     </ul>
   </li>
   <li>
-    <span><strong><u>Code:</u></strong></span> Diario's program is fully written in <strong>JavaScript</strong> and <strong>HTML/CSS</strong>, it allowed us to learn how to use the Document Object Model (DOM) programming interface.
+    <strong><ins>Code:</ins></strong> Diario's program is fully written in <strong>JavaScript</strong> and <strong>HTML/CSS</strong>, it allowed us to learn how to use the Document Object Model (DOM) programming interface.
   <li>
-    <span><strong><u>Style:</u></strong></span> The CSS grid was designed with the help of <strong>Bootstrap.css</strong> and is hence fully responsive.
+    <strong><ins>Style:</ins></strong> The CSS grid was designed with the help of <strong>Bootstrap.css</strong> and is hence fully responsive.
   </li>
   <li>
-    <span><strong><u>Teamwork and cooperation:</u></strong></span> We fully cooperated dividing our tasks using <strong>Trello</strong>, working from a MVP to a fully functional V2. Versioning was done using <strong>Git and Github</strong>.
+    <strong><ins>Teamwork and cooperation:</ins></strong> We fully cooperated dividing our tasks using <strong>Trello</strong>, working from a MVP to a fully functional V2. Versioning was done using <strong>Git and Github</strong>.
   </li>
 </ul>
 
@@ -206,13 +206,13 @@ The idea is to create a web application through which a user would be able to up
     Travel Book is a social network centered of travel themes. The core idea of the project is to allow users to share their travel's experience through their posts.
   </li>
   <li>
-    <span><strong><u>Teamwork and organization:</u></strong></span> Starting in pair-programming, we quickly moved to a task division using <strong>Trello</strong> and <strong>Git and GitHub</strong> for versioning.
+    <strong><ins>Teamwork and organization:</ins></strong> Starting in pair-programming, we quickly moved to a task division using <strong>Trello</strong> and <strong>Git and GitHub</strong> for versioning.
   </li>
   <li>
-    <span><strong><u>My role:</u></strong></span> In this project, I endorsed the role of a lead-developer for the first time, driving our workflow, ensuring everyone was motivated by the realization of our social network and making sure features were developed on time. It was a big challenge through which I improved many team-work communication and perseverance skills by helping my other classmates to achieve their goals.
+    <strong><ins>My role:</ins></strong> In this project, I endorsed the role of a lead-developer for the first time, driving our workflow, ensuring everyone was motivated by the realization of our social network and making sure features were developed on time. It was a big challenge through which I improved many team-work communication and perseverance skills by helping my other classmates to achieve their goals.
   </li>
   <li>
-    <span><strong><u>Features:</u></strong></span> Fully written in PHP which we were using for the first time, we implemented many social network related features, such as:
+    <strong><ins>Features:</ins></strong> Fully written in PHP which we were using for the first time, we implemented many social network related features, such as:
     <ul>
       <li>
         Creating a user account, stocking the user's credentials in a database and handling user's session login and logout.
@@ -243,22 +243,22 @@ The idea is to create a web application through which a user would be able to up
 <h4><a href="https://github.com/Gabrielparizet/Comfy_Studio" alt="Comfy Studio project repository">Comfy Studio</a><span> / March 2023</span></h4>
 <ul>
   <li>
-    <span><strong><u>About:</u></strong></span> Comfy Studio is a second-hand furniture webstore developed from scratch in a group of ten classmates. <br>
+    <strong><ins>About:</ins></strong> Comfy Studio is a second-hand furniture webstore developed from scratch in a group of ten classmates. <br>
     Spread over two weeks, our group was divided in two, with one half working on the back-end, while the other worked on the front, before exchanging roles during the second week. <br>
     Deciding as a team that we should have two teamleaders for each side of the development team, I was appointed back-end teamleader during the first week. 
   </li>
   <li>
-    <span><strong><u>Programming languages:</u></strong></span> Creating this webstore application from scratch, we had complete liberty over our choice of technologies.
+    <strong><ins>Programming languages:</ins></strong> Creating this webstore application from scratch, we had complete liberty over our choice of technologies.
     The front-end of the project was hence developed using <strong>React.js</strong> and <strong>Tailwind.css</strong> for styles. <br>
     Being the first project where we had to create an entire back-end side of the application, my personal choice was to lean over the <strong>MERN</strong> stack (Mongo DB, Express.js, React.js, Node.js) for the entire project. However, prefering to practice our recently acquired MySQL skills, we decided to lean over a back-end side done in <strong>Node.js</strong>, <strong>Express.js</strong> and raw <strong>MySQL</strong> using Node.js <strong>Sequelize</strong> module.
   </li>
   <li>
-    <span><strong><u>Teamwork and cooperation:</u></strong></span> Comfy Studio was quite a challenging project as it was the first time we collaborated with that many pairs. It greatly improved our <strong>Git and GitHub</strong> skills which we used to simultaneously write code and for versioning. Necessiting many <strong>pull requests</strong> and <strong>branches</strong>, we decided to protect our master branch by forcing pairs to add other collaborators as reviewers before being able to <strong>merge</strong> their code on the master branch. <br>
+    <strong><ins>Teamwork and cooperation:</ins></strong> Comfy Studio was quite a challenging project as it was the first time we collaborated with that many pairs. It greatly improved our <strong>Git and GitHub</strong> skills which we used to simultaneously write code and for versioning. Necessiting many <strong>pull requests</strong> and <strong>branches</strong>, we decided to protect our master branch by forcing pairs to add other collaborators as reviewers before being able to <strong>merge</strong> their code on the master branch. <br>
     As exchanging roles after the first week was a precondition of the project, following this workflow allowed us to better reappropriate our collaborator's already written code in order to implement new features once we changed teams. <br>
     To facilitate our teamwork, we decided to have daily meetings to evaluate our progress and for decision-making. These meetings enabled us to effectively divide our tasks, which were tracked with the use of two <strong>Trello</strong> boards, one for the front-end, and another one for the back. 
   </li>
   <li>
-    <span><strong><u>Features:</u></strong></span> By linking the front and the back-end of the application through an API created with the use of Express.js, our goal was to implement several webstore related features such as: 
+    <strong><ins>Features:</ins></strong> By linking the front and the back-end of the application through an API created with the use of Express.js, our goal was to implement several webstore related features such as: 
     <ul>
       <li>
         The display of furnitures on sale in the React.js application, according to their storage in the MySQL database, as well as the display of such furnitures on their personal information page, through <strong>HTTP GET routes</strong>.
@@ -274,7 +274,7 @@ The idea is to create a web application through which a user would be able to up
         Making an order from the web application if you are a connected user and store that order in the database through a <strong>HTTP POST route</strong> by linking it to its related user and furnitures, which was quite a challenge for us in a relational database environment. 
     </ul>
   <li>
-    <span><strong><u>Design and style:</u></strong></span> Finally, the design of the website created with React.js and Tailwind.css challenged us into creating a professional-like webstore to promote our second-hand furnitures' shop. 
+    <strong><ins>Design and style:</ins></strong> Finally, the design of the website created with React.js and Tailwind.css challenged us into creating a professional-like webstore to promote our second-hand furnitures' shop. 
   </li>
 </ul>
 
