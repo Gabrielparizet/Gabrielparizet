@@ -132,7 +132,7 @@
 
 <h3>Personal Projects</h3>
 
-<a href="https://github.com/Gabrielparizet/music-recognition-project" alt="Link to sound data repository">Sound Data</a>
+<h4><a href="https://github.com/Gabrielparizet/music-recognition-project" alt="Link to sound data repository">Sound Data</a></h4>
 
 <p>Sound data is personal project I started recently and on which I am currently working on my free time.
 The idea is to create a web application through which a user would be able to upload an audio file in order to get musical information about it such as: the tempo (bpm), the length in minutes of the file and a graphical representation of the sound.</p>
@@ -154,7 +154,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a><span> / October 2022</span>
+<h4><a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a><span> / October 2022</span></h4>
 <ul>
   <li>
     Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
@@ -164,7 +164,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension project repository">Diario</a><span> / January 2023</span>
+<h4><a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension project repository">Diario</a><span> / January 2023</span></h4>
 <ul>
   <li>
     Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
@@ -201,7 +201,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a><span> / February 2023</span>
+<h4><a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a><span> / February 2023</span></h4>
 <ul>
   <li>
     Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time.
@@ -244,7 +244,7 @@ The idea is to create a web application through which a user would be able to up
   
 <br>
 
-<a href="https://github.com/Gabrielparizet/Comfy_Studio" alt="Comfy Studio project repository">Comfy Studio</a><span> / March 2023</span>
+<h4><a href="https://github.com/Gabrielparizet/Comfy_Studio" alt="Comfy Studio project repository">Comfy Studio</a><span> / March 2023</span></h4>
 <ul>
   <li>
     Comfy Studio is a second-hand furniture webstore developed from scratch in a group of ten classmates.
@@ -258,6 +258,14 @@ The idea is to create a web application through which a user would be able to up
     The front-end of the project was hence developed using <strong>React.js</strong> and <strong>Tailwind.css</strong> for styles. <br>
     Being the first project where we had to create an entire back-end side of the application, my personal choice was to lean over the <strong>MERN</strong> stack (Mongo DB, Express.js, React.js, Node.js) for the entire project. However, prefering to practice our recently acquired MySQL skills, we decided to lean over a back-end side done in <strong>Node.js</strong>, <strong>Express.js</strong> and raw <strong>MySQL</strong> using Node.js <strong>Sequelize</strong> module.
   </li>
+  <li>
+    Comfy Studio was quite a challenging project as it was the first time we collaborated with that many pairs. It greatly improved our <strong>Git and GitHub</strong> skills which we used to simultaneously write code and for versioning. Necessiting many <strong>pull requests</strong> and <strong>branches</strong>, we decided to protect our master branch by forcing pairs to add other collaborators as reviewers before being able to <strong>merge</strong> their code on the master branch. <br>
+    As exchanging roles after the first week was a precondition of the project, following this workflow allowed us to better reappropriate our collaborator's already written code in order to implement new features once we changed teams. 
+  </li>
+  <li>
+    To facilitate our teamwork, we decided to have daily meetings to evaluate our progress and for decision-making, that enabled us to effectively divide our tasks, which were tracked with the use of two <strong>Trello</strong> boards, one for the front-end, and another one for the back. 
+  </li>
+</ul>
 
 
 
