@@ -1,6 +1,4 @@
-<h1>Welcome to my GitHub profile! 👋 
-<br>
-(This page is undergoing work)</h1>
+<h1>Welcome to my GitHub profile! 👋</h1>
 
 
 <h2>Contact ☎️</h2>
@@ -263,8 +261,21 @@ The idea is to create a web application through which a user would be able to up
     As exchanging roles after the first week was a precondition of the project, following this workflow allowed us to better reappropriate our collaborator's already written code in order to implement new features once we changed teams. 
   </li>
   <li>
-    To facilitate our teamwork, we decided to have daily meetings to evaluate our progress and for decision-making, that enabled us to effectively divide our tasks, which were tracked with the use of two <strong>Trello</strong> boards, one for the front-end, and another one for the back. 
+    To facilitate our teamwork, we decided to have daily meetings to evaluate our progress and for decision-making. These meetings enabled us to effectively divide our tasks, which were tracked with the use of two <strong>Trello</strong> boards, one for the front-end, and another one for the back. 
   </li>
+  <li>
+    By linking the front and the back-end of the application through an API created with the use of Express.js, our goal was to implement many webstore related features such as: 
+    <ul>
+      <li>
+        The display of furnitures on sale in the React.js application, according to their storage in the MySQL database, as well as the display of such furnitures on their personal information page, through <strong>HTTP GET routes</strong>.
+      </li>
+      <li>
+        The storage of furnitures' images on our express server with their corresponding slugs stored in our database made accessible through a <strong>HTTP GET route<strong>.
+      </li>
+      <li>
+        The possibility for a user to create a personal account through a registration form that will check the user's email validity, hash the user's password with the help of <strong>SHA256</strong>and post her/his credentials in the database through a <strong>HTTP POST route</strong>.
+      </li>
+    </ul>
 </ul>
 
 
