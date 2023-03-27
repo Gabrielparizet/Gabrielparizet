@@ -182,10 +182,10 @@ The idea is to create a web application through which a user would be able to up
       <li>
         The display of you chrome bookmarks in a tree-like layout using chrome.bookmarks API.
       </li>
+      <li>
+        Diario also takes into account the user's time when he connects to the extension and adapts its theme accordingly.
+      </li>
     </ul>
-  </li>
-  <li>
-    Diario also takes into account the user's time when he connects to the extension and adapts its theme accordingly.
   </li>
   <li>
     <span><strong><u>Code:</u></strong></span> Diario's program is fully written in <strong>JavaScript</strong> and <strong>HTML/CSS</strong>, it allowed us to learn how to use the Document Object Model (DOM) programming interface.
@@ -202,7 +202,7 @@ The idea is to create a web application through which a user would be able to up
 <h4><a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a><span> / February 2023</span></h4>
 <ul>
   <li>
-    <span><strong><u>About:</u></strong></span> Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time. <br>
+    <span style="text-decoration: underline;"><strong><u>About:</u></strong></span> Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time. <br>
     Travel Book is a social network centered of travel themes. The core idea of the project is to allow users to share their travel's experience through their posts.
   </li>
   <li>
