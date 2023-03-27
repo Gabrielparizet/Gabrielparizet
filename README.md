@@ -242,6 +242,22 @@ The idea is to create a web application through which a user would be able to up
   </li>
 </ul>
   
-   
-      
+<br>
+
+<a href="https://github.com/Gabrielparizet/Comfy_Studio" alt="Comfy Studio project repository">Comfy Studio</a>
+<ul>
+  <li>
+    Comfy Studio is a second-hand furniture webstore developed from scratch in a group of ten classmates.
+  </li>
+  <li>
+    Spread over two weeks, our group was divided in two, with one half working on the back-end, while the other worked on the front, before exchanging roles during the second week. <br>
+    Deciding as a team that we should have two teamleaders for each side of the development team, I was appointed back-end teamleader during the first week. 
+  </li>
+  <li>
+    Creating this webstore application from scratch, we had complete liberty over our choice of technologies.
+    The front-end of the project was hence developed using <strong>React.js</strong> and <strong>Tailwind.css</strong> for styles. <br>
+    Being the first project where we had to create an entire back-end side of the application, my personal choice was to lean over the <strong>MERN</strong> stack (Mongo DB, Express.js, React.js, Node.js) for the entire project. However, prefering to practice our recently acquired MySQL skills, we decided to lean over a back-end side done in <strong>Node.js</strong>, <strong>Express.js</strong> and raw <strong>MySQL</strong> using Node.js <strong>Sequelize</strong> module.
+  </li>
+
+
 
