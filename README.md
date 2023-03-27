@@ -130,18 +130,31 @@
 
 <h3>Personal Projects</h3>
 
-<h4><a href="https://github.com/Gabrielparizet/music-recognition-project" alt="Link to sound data repository">Sound Data</a></h4>
-
-<p>Sound data is personal project I started recently and on which I am currently working on my free time.
-The idea is to create a web application through which a user would be able to upload an audio file in order to get musical information about it such as: the tempo (bpm), the length in minutes of the file and a graphical representation of the sound.</p>
-<p>Currently working on a Minimum Viable Product, my goal for the V2 of <strong>Sound Data</strong> is to add the possibility to create an account in order to save the infos of a user's previously analyzed files, so they won't have to upload their files again.</p>
+<h4><a href="https://github.com/Gabrielparizet/music-recognition-project" alt="Link to sound data repository">Sound Data</a><span> / Ongoing</span></h4>
 <ul>
-  <li>The back-end (ongoing) is done in Python with the use of Flask for the building of the API's routes.</li>
   <li>
-    The audio-files are processed through a python package named <strong>Librosa</strong> which is specifically designed for music and audio analysis.       </li>
-  <li>The front-end (ongoing) is created with the use of React.js and Tailwind.css. </li>
-  <li>In the V2, I am planning to add a MySQL relational database to handle user's account data and the saving of files' slugs.</li>
+    <strong><ins>About:</ins></strong> Sound data is personal project I started recently and on which I am currently working on my free time.
+    The idea is to create a web application through which a user would be able to upload an audio file in order to get musical information about it such as: the tempo (bpm), the length in minutes of the file and a graphical representation of the sound. <br>
+    Currently working on a Minimum Viable Product, my goal for the V2 of <strong>Sound Data</strong> is to add the possibility to create an account in order to save the infos of a user's previously analyzed files, so they won't have to upload their files again.
+  </li>
+  <li><strong><ins>Code:</ins></strong>
+    <ul>
+      <li>
+        The back-end (ongoing) is done in Python with the use of Flask for the building of the API's routes.
+      </li>
+      <li>
+        The audio-files are processed through a python package named <strong>Librosa</strong> which is specifically designed for music and audio analysis.
+      </li>
+      <li>
+        The front-end (ongoing) is created with the use of React.js and Tailwind.css. 
+      </li>
+      <li>
+        In the V2, I am planning to add a MySQL relational database to handle user's account data and the saving of files' slugs.
+      </li>
+    </ul>
+  </li>
 </ul>
+
 
 <br>
 
