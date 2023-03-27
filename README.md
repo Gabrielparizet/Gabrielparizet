@@ -202,7 +202,7 @@ The idea is to create a web application through which a user would be able to up
 <h4><a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a><span> / February 2023</span></h4>
 <ul>
   <li>
-    <strong><u>About:</u></strong> Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time. <br>
+    <strong><ins>About:</ins></strong> Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time. <br>
     Travel Book is a social network centered of travel themes. The core idea of the project is to allow users to share their travel's experience through their posts.
   </li>
   <li>
