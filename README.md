@@ -154,7 +154,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a><p>October 2022</p>
+<a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a><span>October 2022</span>
 <ul>
   <li>
     Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
@@ -164,7 +164,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension project repository">Diario</a><p>January 2023</p>
+<a href="https://github.com/Gabrielparizet/diario_web_extension_project" alt="Diaro Chrome Web Extension project repository">Diario</a><span>January 2023</span>
 <ul>
   <li>
     Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
@@ -201,7 +201,7 @@ The idea is to create a web application through which a user would be able to up
 
 <br>
 
-<a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a><p>February 2023</p>
+<a href="https://github.com/Gabrielparizet/travel_book" alt="Travel Book project repository">Travel Book</a><span>February 2023</span>
 <ul>
   <li>
     Travel Book is a social network developed in a group of three from an already written code in PHP using MySQL and WAMP for database handling. Our goal as a team was to reformat the already written code in the firstplace and to improve it by adding other functionalities and features in a second time.
@@ -244,7 +244,7 @@ The idea is to create a web application through which a user would be able to up
   
 <br>
 
-<a href="https://github.com/Gabrielparizet/Comfy_Studio" alt="Comfy Studio project repository">Comfy Studio</a><p>March 2023</p>
+<a href="https://github.com/Gabrielparizet/Comfy_Studio" alt="Comfy Studio project repository">Comfy Studio</a><span>March 2023</span>
 <ul>
   <li>
     Comfy Studio is a second-hand furniture webstore developed from scratch in a group of ten classmates.
