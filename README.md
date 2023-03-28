@@ -286,7 +286,7 @@
 <h4><a href="https://www.lexaloffle.com/bbs/?tid=50034&fbclid=IwAR0YV5Gn4N2OThKEuXc3lggdP-s6wqb0by1udEgkPSCwvddG6oZCzZeu6D0" alt="Vortex Blackhole Link">Vortex Blackhole</a><span> / October 2022</span></h4>
 <ul>
   <li>
-    <strong><ins>About:</ins></strong> Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console </strong>.
+    <strong><ins>About:</ins></strong> Vortex Blackhole is a space shooter game I developed with two classmates last October on the <strong>Pico-8 Fantasy Console</strong>.
   </li>
   <li><strong><ins>Description:</ins></strong> Essentially produced in pair-programming, this two weeks project allowed us to understand the role of functions and variables while discovering <strong>Lua</strong>, a lightweight, high-level, multi-paradigm programming language.</li>
 </ul>
