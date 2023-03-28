@@ -142,7 +142,7 @@
 <h4><a href="https://github.com/Gabrielparizet/music-recognition-project" alt="Link to sound data repository">Sound Data</a><span> / Ongoing</span></h4>
 <ul>
   <li>
-    <strong><ins>About:</ins></strong> Sound data is personal project I started recently and on which I am currently working on my free time.
+    <strong><ins>About:</ins></strong> Sound data is a personal project I started recently and on which I am currently working on my free time.
     The idea is to create a web application through which a user would be able to upload an audio file in order to get musical information about it such as: the tempo (bpm), the length in minutes of the file and a graphical representation of the sound. <br>
     Currently working on a Minimum Viable Product, my goal for the V2 of <strong>Sound Data</strong> is to add the possibility to create an account in order to save the infos of a user's previously analyzed files, so they won't have to upload their files again.
   </li>
