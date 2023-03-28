@@ -24,6 +24,15 @@
 
 <br>
 
+<p>
+  Graduated in political-science at Concordia University (Montreal, CA) in 2016. 🎓
+</p>
+<p>
+  Worked as a sommelier in prestigious Parisian institutions from 2017 to 2022. 🍷
+</p>
+
+<br>
+
 
 <h2>Goal 🎯</h2>
 
