@@ -28,7 +28,7 @@
   Graduated in political-science at Concordia University (Montreal, CA) in 2016. 🎓
 </p>
 <p>
-  Worked as a sommelier in prestigious Parisian institutions from 2017 to 2022. 🍷
+  Worked as a sommelier in prestigious Parisian establishments from 2017 to 2022. 🍷
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 
 <h2>Goal 🎯</h2>
 
-<p>Growing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12-month apprenticeship as a <strong>back-end software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my goal of becoming a senior back-end engineer in the years to come. </p>
+<p>Growing a strong interest for data processing, servers' administration and communication and the building of APIs and their routes, my main goal is to find a 12-month apprenticeship as a <strong>backend software engineer</strong>, starting between June the 12th and July the 7th 2023. I am very curious about back-end engineering and can't wait to learn more about it in depth so I can achieve my goal of becoming a senior back-end engineer in the years to come. </p>
 
 <p><strong>This apprenticeship would work on the basis of Monday to Thursday at work and Fridays at school.</strong></p>
 
