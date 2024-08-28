@@ -14,10 +14,8 @@
 
 <h2>Education 📚</h2>
   
-<p>My name is Gabriel, I am 28 years old, from Paris and I am a student in software engineering since October 2022 at:</p>
-<a href="https://adatechschool.fr/" target="_blank"><img width="222" alt="img_logo_ada_white" src="./logos/ada_tech_school.png" alt="Ada Tech School Logo"></a>
+<p>My name is Gabriel, I am 30 years old, from Paris and I am a student in software engineering since October 2022 at @Ada_Tech_School, working as an apprentice Backend developer @WTTJ. </p>
 
-<br>
 <br>
 
 <p>At Ada, I am<b> autonomously </b>learning all the programming fundamentals necessary to become a software engineer: programming languages and paradigms, networks and systems, processus, database creation and handling, Q&A and software architecture.</p>
@@ -31,87 +29,6 @@
   Worked as a sommelier in prestigious Parisian establishments from 2017 to 2022. 🍷
 </p>
 
-
-
-<h2>Programming Languages and Tools 💻</h2>
-
-<h3>Programming Languages</h3>  
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="./logos/JavaScript.png" alt="JavaScript Logo">
-      </td>
-      <td>
-        <img src="./logos/Node.png" alt="Node.js Logo">
-      </td>
-      <td>
-        <img src="./logos/Python.png" alt="Python Logo">
-      </td>
-      <td>
-        <img src="./logos/PHP.png" alt="Php Logo">
-      </td>
-      <td>
-        <img src="./logos/MySQL.png" alt="MySQL Logo">
-      </td>
-      <td>
-        <img src="./logos/html.png" alt="HTML Logo">
-      </td>
-      <td>
-        <img src="./logos/css.png" alt="CSS Logo">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>Frameworks</h3>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="./logos/React.png" alt="React.js Logo">
-      </td>
-      <td>
-        <img src="./logos/express.png" alt="Express.js Logo">
-      </td>
-      <td>
-        <img src="./logos/flask.png" alt="Flask Logo">
-      </td>
-      <td>
-        <img src="./logos/Tailwind.png" alt="Tailwind Logo">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>Tools</h3>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="./logos/Notion.png" alt="Notion Logo">
-      </td>
-      <td>
-        <img src="./logos/vs_code.png" alt="Visual Studio Code Logo">
-      </td>
-      <td>
-        <img src="./logos/pycharm.png" alt="PyCharm Logo">
-      </td>
-      <td>
-        <img src="./logos/github.png" alt="GitHub Logo">
-      </td>
-      <td>
-        <img src="./logos/Postman.png" alt="PostMan Logo">
-      </td>
-      <td>
-        <img src="./logos/mysql_workbench.png" alt="MySql Workbench Logo">
-      </td>
-      <td>
-        <img src="./logos/mamp.png" alt="Mamp Logo">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <br>
 
